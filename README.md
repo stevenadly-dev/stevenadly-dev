@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Codelabs.tech
-🌱 I’m currently learning angular
+🔭 I’m Front End Developer at eBenfits Network company
+🌱 I’m currently learning React
+📫 How to reach me: mail : stevenadly2015@outlook.com
 
 
 
