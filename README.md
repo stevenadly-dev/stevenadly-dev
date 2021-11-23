@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m Front End Developer at eBenfits Network company
+🔭 I’m Front End Developer at ebenefitsnetwork company
 
 🌱 I’m currently learning React
 
